@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f9983de1f1843749a47dbaa299840b5, type: 3}
+  m_Name: Assets
+  m_EditorClassIdentifier: 
+  Prefabs:
+    MainMenu: {fileID: 898448926737949144, guid: 81540dbdea618d54896d7e1c18f089c9, type: 3}
+    Gallery: {fileID: 1084591686620742728, guid: 961382eff908b5a46a01f741cf06e44f, type: 3}
+    ImageScreen: {fileID: 1329308006984116747, guid: d35afa1f229631b4f8d110f2e9468490, type: 3}
+    Loading: {fileID: 4286343793355351108, guid: 432a1983a7bcbc845b25bbe0395e2701, type: 3}
+  ImagesWebRequestDefinition: {fileID: 11400000, guid: 0b980c6802dafa54986da763ba2e3af3, type: 2}
